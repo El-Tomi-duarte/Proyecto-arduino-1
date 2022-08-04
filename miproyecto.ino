@@ -1,10 +1,10 @@
 //MiProyecto
 void setup(){
-pinMode(13,OUTPUT);
+pinMode(14,OUTPUT);
 }
 
 void loop(){
-digitalWrite(13, OUTPUT);
+digitalWrite(14, OUTPUT);
 delay(1000);
 
 }
